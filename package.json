@@ -1,0 +1,8 @@
+{
+    "name": "ganache-clie",
+    "version": "6.12.2",
+    "dependencies": {
+      "my_dep": "",
+      "another_dep": ""
+    }
+  }
